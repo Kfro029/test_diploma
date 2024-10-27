@@ -1,0 +1,14 @@
+﻿  FileName.cpp
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(17,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(56,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(113,17): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(113,17): warning C4244:         with
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(113,17): warning C4244:         [
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(113,17): warning C4244:             _Ty=double
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(113,17): warning C4244:         ]
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(114,16): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(114,16): warning C4244:         with
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(114,16): warning C4244:         [
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(114,16): warning C4244:             _Ty=double
+C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\FileName.cpp(114,16): warning C4244:         ]
+  Project1.vcxproj -> C:\Users\KF36F\OneDrive\Desktop\MIPT\Диплом\Обкатка\Project1\x64\Debug\Project1.exe
